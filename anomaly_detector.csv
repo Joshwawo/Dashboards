@@ -1,4 +1,4 @@
-﻿publlication_date,cause,class,employee_id,member_id,location_id,item_id,quantity_sold,cost,revenue,profit_pct
+﻿publication_date,cause,class,employee_id,member_id,location_id,item_id,quantity_sold,cost,revenue,profit,profit_pct
 2022-06-02 00:00:00.0000000,profit,3,89,204,4,443,18,18000.00,24012.00,6012.00,25.0300006866455
 2022-06-02 00:00:00.0000000,profit,3,89,1837,4,443,22,22000.00,29348.00,7348.00,25.0300006866455
 2022-06-02 00:00:00.0000000,profit,0,89,480,4,377,15,9750.00,13006.50,3256.50,25.0300006866455
